@@ -1,0 +1,62 @@
+h1{
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+	font-size: 50px;
+	padding-bottom: 10px;
+	text-align: center;
+	text-transform: uppercase;
+	text-rendering: optimizeLegibility;
+	text-align: center;
+	 color: #2c2c2c;
+	letter-spacing: .05em;
+	text-shadow: 
+	  4px 4px 0px #d5d5d5, 
+	  7px 7px 0px rgba(0, 0, 0, 0.2);
+  }
+
+  h2{
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+	font-size: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+	text-transform: uppercase;
+	text-rendering: optimizeLegibility;
+	text-align: center;
+	 color: #2c2c2c;
+	letter-spacing: .05em;
+	text-shadow: 
+	  4px 4px 0px #d5d5d5, 
+	  7px 7px 0px rgba(0, 0, 0, 0.2);
+  }
+
+table{
+	margin: 0 25%;
+}
+td{
+	padding-right: 15px;
+}
+form{
+	text-align: center;
+	margin-top:20px;
+}
+
+
+#alertmsg p{
+font-size: 24px;
+text-align: center;
+color: red;
+}
+
+
+.acont{
+	margin-left: 15px;
+}
+
+.acontdel{
+	color: red;
+	margin-left: 15px;
+}
+
+.aedit{
+	color: green;
+	margin-left: 15px;
+}
